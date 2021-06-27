@@ -60,7 +60,6 @@ void reserveSeats(char bookings[][NUM_SEATS],int reservedRow[NUM_ROWS]){
 }
 
 int32_t main() {
-	cout<<" The Final Project - CSS200 - Introduction to C++\n Name: Abdullah Alotaibi - ID:201000960\n";
 	cout<<"=================================================\n";
 	char bookings[NUM_ROWS][NUM_SEATS];
 	for(int i=0;i<NUM_ROWS;++i)
